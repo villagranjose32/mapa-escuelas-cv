@@ -1,0 +1,402 @@
+[
+  {
+    "school": "San José",
+    "lat": -27.7859895,
+    "lon": -64.2593385,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/way/281585334",
+    "matched": "Colegio San José, Avenida Libertad 327"
+  },
+  {
+    "school": "La Asunción",
+    "lat": -27.7953979,
+    "lon": -64.257108,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/1282114348",
+    "matched": "Colegio La Asunción, 1063, Avenida Belgrano Sur, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "San Pedro Nolasco",
+    "lat": -27.790662,
+    "lon": -64.2580837,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8615114281",
+    "matched": "Instituto San Pedro Nolasco Bachillerato Humanista, 329, 24 de Septiembre, Barrio Belgrano, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "San Francisco de Asís",
+    "lat": -27.7854173,
+    "lon": -64.2543963,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/way/277120281",
+    "matched": "Escuela San Francisco, 549, Pedro Pablo Olaechea, Barrio Parque Aguirre, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Madre Mercedes Guerra",
+    "lat": -27.7872944,
+    "lon": -64.2635234,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/way/509040910",
+    "matched": "Colegio Madre Mercedes Guerra, 43, Sáenz Peña, Centro, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "San Jorge",
+    "lat": -27.7838632,
+    "lon": -64.2630885,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8719936100",
+    "matched": "Instituto De Enseñanza San Jorge, 144, Jujuy, Parque Aguirre, Barrio Parque Aguirre, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Mater Dei",
+    "lat": -27.7378042,
+    "lon": -64.2496231,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/118110161",
+    "matched": "Sáenz Peña, Villa Eloisa, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "Nuestra Señora de Lourdes",
+    "lat": -27.7473897,
+    "lon": -64.2621694,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/287646423",
+    "matched": "Avenida Belgrano, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "Cristo Rey",
+    "lat": -27.7288171,
+    "lon": -64.2387578,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/287650130",
+    "matched": "España, Centro, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "Inti Huasi",
+    "lat": -27.7340707,
+    "lon": -64.234698,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/11522518742",
+    "matched": "Colegio cooperativo INTI HUASI, 576, Avenida San Martín, Centro, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, 4300, Argentina"
+  },
+  {
+    "school": "Bernardino Rivadavia",
+    "lat": -27.7439783,
+    "lon": -64.2518587,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/85617152",
+    "matched": "Lavalle, Agua y Energia, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "María de Nazareth",
+    "lat": -27.7904024,
+    "lon": -64.2874214,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8489665312",
+    "matched": "Colegio Maria De Nazareth, 432, Diaguitas, Don Bosco, Barrio Autonomía, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Annunciata Cocchetti",
+    "lat": -27.7814009,
+    "lon": -64.2902568,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/way/928654971",
+    "matched": "Colegio Anunciatta Cochetti, Coccetti "
+  },
+  {
+    "school": "Pío XII",
+    "lat": -27.818327,
+    "lon": -64.2281582,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8715123257",
+    "matched": "Instituto Pío XII, Pasaje 49 "
+  },
+  {
+    "school": "La Sagrada Familia",
+    "lat": -27.8094786,
+    "lon": -64.3023143,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8715222981",
+    "matched": "Colegio La Sagrada Familia, José Olaechea 234"
+  },
+  {
+    "school": "Nuestra Señora de la Medalla Milagrosa",
+    "lat": -27.7855644,
+    "lon": -64.2831888,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8715222982",
+    "matched": "Colegio Nuestra Señora De La Medalla Milagrosa, 478, Santiago Herrera, Juan Felipe Ibarra, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, G4200, Argentina"
+  },
+  {
+    "school": "Belén",
+    "lat": -27.7842055,
+    "lon": -64.2647059,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8491562347",
+    "matched": "Colegio Belen, 22, Leandro N. Alem, Alberdi, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Laura Vicuña",
+    "lat": -27.7997145,
+    "lon": -64.2479587,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8521487613",
+    "matched": "Instituto Laura Vicuña, Independencia, Barrio Belgrano, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Santa Dorotea",
+    "lat": -27.7912317,
+    "lon": -64.2714893,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8521487615",
+    "matched": "Colegio Santa Dorotea Ll35, 241, Juan Milburg, Barrio Saenz Peña, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Sagrado Corazón de Jesús",
+    "lat": -27.7901565,
+    "lon": -64.270172,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8715279785",
+    "matched": "Instituto Secundario Sagrado Corazón De Jesús, 161, Avenida Colón Sur, Barrio Saenz Peña, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Santo Tomás de Aquino",
+    "lat": -27.808576,
+    "lon": -64.2478148,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/way/509040907",
+    "matched": "Escuela Santo Tomás de Aquino, Arturo Illia, Barrio Belgrano, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Nuestra Señora del Rosario de Fátima",
+    "lat": -27.811568,
+    "lon": -64.2361576,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8615244131",
+    "matched": "Instituto Nuestra Señora Del Rosario de Fátima, 2455, Buenos Aires, Barrio Reconquista, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Espíritu Santo",
+    "lat": -27.834049,
+    "lon": -64.2507669,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8715775991",
+    "matched": "Colegio Espiritu Santo, 5013, Doctor Ramón Cardozo, Barrio Ejército Argentino, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Nuestra Señora de Luján",
+    "lat": -27.791346,
+    "lon": -64.2765888,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8615244157",
+    "matched": "Colegio Nuestra Señora De Luján, 450, Capitán Manuel del Castaño, Barrio Rivadavia, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Nuestra Señora de la Misericordia",
+    "lat": -27.7931119,
+    "lon": -64.2695176,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/4581036595",
+    "matched": "Colegio Nuestra Señora de la Misericordia, 1293, Avenida Libertad, Barrio Saenz Peña, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Santa Lucía",
+    "lat": -27.8176926,
+    "lon": -64.2737976,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8716095814",
+    "matched": "Colegio Santa Lucia, Virgen de Loreto "
+  },
+  {
+    "school": "María Auxiliadora",
+    "lat": -27.8226402,
+    "lon": -64.2751794,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/way/929434453",
+    "matched": "Escuela 718 María Auxiliadora, Doctor Nerio Rojas, Santa Lucia, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "San Gabriel",
+    "lat": -27.7969023,
+    "lon": -64.2554662,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8715775992",
+    "matched": "Escuela San Gabriel, Avenida Belgrano Sur "
+  },
+  {
+    "school": "Nuestra Señora de Loreto",
+    "lat": -27.7802659,
+    "lon": -64.2907129,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/115213948",
+    "matched": "Gregorio Iramaín, Barrio General Paz, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, G4200, Argentina"
+  },
+  {
+    "school": "Big Ben School",
+    "lat": -27.7936096,
+    "lon": -64.2605505,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8723032050",
+    "matched": "Big Ben School, Congreso 236"
+  },
+  {
+    "school": "Alfredo Furniss",
+    "lat": -27.7834655,
+    "lon": -64.2591351,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8719936101",
+    "matched": "Colegio Evangelico Alfredo Furniss Jardín Mi Pesebre, 447, Salta, Parque Aguirre, Barrio Parque Aguirre, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Santiago del Estero English High School",
+    "lat": -27.7921367,
+    "lon": -64.2592741,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8537388424",
+    "matched": "Santiago Del Estero English High School, 371, Entre Ríos, Centro, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Santiago Canclini",
+    "lat": -27.806784,
+    "lon": -64.3050993,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/way/913672237",
+    "matched": "Colegio Evangélico Santiago Canclini, 231, Ingeniero Santiago Maradona, Barrio Autonomia, Barrio Autonomía, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Shishilo",
+    "lat": -27.8014488,
+    "lon": -64.2497102,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/way/915109210",
+    "matched": "Colegio Mutualista Shishilo, Reforma del 18 1283"
+  },
+  {
+    "school": "Monseñor Jorge Gottau",
+    "lat": -27.7934642,
+    "lon": -64.2614461,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8538865602",
+    "matched": "Instituto Superior Monseñor Jorge Gottau, 746, Avenida Moreno Sur, Barrio Congreso, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "David Mc. Taggart",
+    "lat": -27.7972186,
+    "lon": -64.2487407,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8758936350",
+    "matched": "Colegio David Mc. Taggart, 175, Viano, Barrio 8 de Abril, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "San Vicente",
+    "lat": -27.7958473,
+    "lon": -64.2414081,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8537388429",
+    "matched": "Escuela San Vicente, 545, Absalon Ibarra, Barrio La Católica, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Juan Pablo II",
+    "lat": -27.8280549,
+    "lon": -64.23663,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8743829626",
+    "matched": "Colegio Juan Pablo II, Sor Ana Maria Bravo Hernandez 816"
+  },
+  {
+    "school": "Instituto Cristiano DAS",
+    "lat": -27.7885084,
+    "lon": -64.2647645,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8758936355",
+    "matched": "Instituto Cristiano DAS Del Altísimo School, 179, Sáenz Peña, Centro, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Intercultural del Estero",
+    "lat": -27.7913347,
+    "lon": -64.267349,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/8758936356",
+    "matched": "Colegio Intercultural del Estero, 39, Pringles, Barrio Centenario, Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, 4200, Argentina"
+  },
+  {
+    "school": "Centro de Atencion Integral Para Personas Con T.g.d",
+    "lat": -27.7459092,
+    "lon": -64.2405028,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/92434210",
+    "matched": "Necochea, Juan D. Perón, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "Colegio Miguel Angel / Jardin de Infantes Los Enanitos Felices",
+    "lat": -27.7278452,
+    "lon": -64.2374122,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/118110168",
+    "matched": "Cassafouth, Centro, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "Colegio Santiago Apostol",
+    "lat": -27.7411797,
+    "lon": -64.2530271,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/287646422",
+    "matched": "Avenida Belgrano, B° El Cruce, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "Escuela de Educación Inicial Bethel",
+    "lat": -27.733397,
+    "lon": -64.2332739,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/287620149",
+    "matched": "San Lorenzo, Centro, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "Instituto Camino de Esperanza (Asaim)",
+    "lat": -27.7410065,
+    "lon": -64.2293659,
+    "precision": "Dirección geocodificada",
+    "source": "https://www.openstreetmap.org/node/13200881275",
+    "matched": "El Instituto Camino de Esperanza,  "
+  },
+  {
+    "school": "Instituto de Educación Superior San Pio de Pietrelcina",
+    "lat": -27.7288171,
+    "lon": -64.2387578,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/287650130",
+    "matched": "España, Centro, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "Instituto Superior Cooproban",
+    "lat": -27.7317675,
+    "lon": -64.2676537,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/117864825",
+    "matched": "Urquiza, San Fernando, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "Instituto Superior Jesús, El Maestro",
+    "lat": -27.7226408,
+    "lon": -64.2481942,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/118113582",
+    "matched": "Coronel Larrabure, Los Lagos, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "Jardín de Infantes Annunciatta Cocchetti",
+    "lat": -27.7288522,
+    "lon": -64.2408016,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/118115160",
+    "matched": "Ameghino, Centro, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "school": "San Pá­o de Pietrelcina",
+    "lat": -27.7288171,
+    "lon": -64.2387578,
+    "precision": "Ubicación aproximada de la calle; confirmar altura",
+    "source": "https://www.openstreetmap.org/way/287650130",
+    "matched": "España, Centro, La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  }
+]
